@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="md2html">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlMarkTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlImageTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlAllTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlLinkTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlUnderlineTest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/artifacts/md2html/Md2HtmlTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
