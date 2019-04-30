@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76b91da5-cb3e-4d44-bb05-473c66276cdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expression.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/exceptions/ExceptionsHighLowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/exceptions/ExceptionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/exceptions/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/GenericAsmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/GenericAsmUfbTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/GenericLsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/GenericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/GenericUfbTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/generic/Tabulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/parser/Either.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/parser/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/expression/parser/ParserTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expression.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clojure/cljtest/ClojureScript.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>if</find>
+      <find>first</find>
+      <find>x</find>
+      <find>constan</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/expression.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1093" />
+    <option name="width" value="834" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+              <item name="cljtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+              <item name="cljtest" type="462c0819:PsiDirectoryNode" />
+              <item name="functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555280658159" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw9" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ReplState" timestamp="1556479956388">{:repl-history {:ide [], :local [{:command &quot;(contains? operations 1)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(contains? operations (first (list (* 1 2))))&quot;, :offset 45, :ns &quot;user&quot;} {:command &quot;(contains? operations *)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(first (list (* 1 2)))&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(first (read-string \&quot;(* 1 2)\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(rest (read-string \&quot;(* 1 2)\&quot;))&quot;, :offset 30, :ns &quot;user&quot;} {:command &quot;(s)&quot;, :offset 3, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{+ - * /})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (vector s)))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 724, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{+ - * /})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (vector (first s))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 732, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{+ - * /})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (contains? operations (first s))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 746, :ns &quot;user&quot;} {:command &quot;(def expr (parseFunction \&quot;(+)\&quot;))&quot;, :offset 32, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{+ - * /})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (if (number? (first s))\n          (vec (concat (vector (constant (first s))) (mapv parseList (rest s))))\n          (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 906, :ns &quot;user&quot;} {:command &quot;(first s)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(contains? operations +)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(def y (first s))&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(contains? operations y)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{\&quot;+\&quot; \&quot;-\&quot; \&quot;*\&quot; \&quot;/\&quot;})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (if (number? (first s))\n          (vec (concat (vector (constant (first s))) (mapv parseList (rest s))))\n          (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 914, :ns &quot;user&quot;} {:command &quot;(contains? operations '(first s))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(def s (read-string \&quot;(+ 1 2)\&quot;))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(contains? operations (first s))&quot;, :offset 32, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{'+ '- '* '/})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (if (number? (first s))\n          (vec (concat (vector (constant (first s))) (mapv parseList (rest s))))\n          (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 910, :ns &quot;user&quot;} {:command &quot;(def expr (+ 1 2))&quot;, :offset 18, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{'+ '- '* '/})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (parseList (rest s)))\n      (if (number? (first s))\n        (vec (concat (vector (constant (first s))) (mapv parseList (rest s))))\n        (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n  (if (number? s)\n    (constant s)\n    (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 863, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{'+ '- '* '/})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (parseList (rest s))\n        (if (number? (first s))\n          (vec (concat (vector (constant (first s))) (mapv parseList (rest s))))\n          (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 874, :ns &quot;user&quot;} {:command &quot;(read-string \&quot;(+ 1 (+ 1 2))\&quot;)&quot;, :offset 29, :ns &quot;user&quot;} {:command &quot;(mapv - (read-string \&quot;(+ 1 (+ 1 2))\&quot;))&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(mapv eval (read-string \&quot;(+ 1 (+ 1 2))\&quot;))&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(mapv eval (rest (read-string \&quot;(1 + 1 (+ 1 2))\&quot;)))&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory /))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations #{'+ '- '* '/})\n(defn parseList[s]\n  (if (list? s)\n    (if (empty? s)\n      (vector)\n      (if (contains? operations (first s))\n        (apply (operationFactory(first s)) (parseList (rest s)))\n        (if (number? (first s))\n          (mapv parseList (rest s))\n          (vec (concat (vector (variable (str (first s)))) (mapv parseList (rest s)))))))\n    (if (number? s)\n      (constant s)\n      (variable (str s)))))\n(defn parseFunction[s]\n  (parseList (read-string s)))&quot;, :offset 865, :ns &quot;user&quot;} {:command &quot;(def expr (parseFunction \&quot;(+ 1 2)\&quot;))&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(def expr (parseFunction \&quot;(1 2 3 4)\&quot;))&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;expr&quot;, :offset 4, :ns &quot;user&quot;} {:command &quot;(apply +((def expr (parseFunction \&quot;(1 2 3 4)\&quot;)) 1))&quot;, :offset 51, :ns &quot;user&quot;} {:command &quot;(((def expr (parseFunction \&quot;(1 2 3 4)\&quot;)) 2))&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(((def expr (parseFunction \&quot;(1 2 3 4)\&quot;)) 3))&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(((def expr (parseFunction \&quot;(1 2 3 4)\&quot;)) 1))&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(((def expr (parseFunction \&quot;(1 2 3 4)\&quot;)) 0))&quot;, :offset 44, :ns &quot;user&quot;} {:command &quot;(rest (list 1 2 3))&quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(rest (list (1 2 3)))&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(rest (list (1 2)))&quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(rest (list 1 2))&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(type (rest (list 1 2)))&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(rest (list 1))&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(/ 1 2 3)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(min 1 2 3)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(def divide (operationFactory #(/ %1 (double %2))))\n(def negate (operationFactory -))\n(def min (operationFactory min))\n(def max (operationFactory max))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n(defn parseFunction [s]\n  (parse (read-string s)))&quot;, :offset 830, :ns &quot;user&quot;} {:command &quot;(min (constant 1) (constant 2))&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(def expr (min (constant 1) (constant 2)))&quot;, :offset 42, :ns &quot;user&quot;} {:command &quot;(expr)&quot;, :offset 6, :ns &quot;user&quot;} {:command &quot;(list [1 2 3])&quot;, :offset 14, :ns &quot;user&quot;} {:command &quot;(apply list [1 2 3])&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(defn do-max [startValue &amp; args]\n  (if (empty? args)\n    Double/MIN_VALUE\n    (if (&gt;= startValue (rest args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))&quot;, :offset 190, :ns &quot;user&quot;} {:command &quot;(defn do-max [startValue &amp; args]\n  (if (empty? args)\n    Double/MIN_VALUE\n    (if (&lt;= startValue (rest args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))&quot;, :offset 190, :ns &quot;user&quot;} {:command &quot;(defn do-max [startValue &amp; args]\n  (if (empty? args)\n    Double/MIN_VALUE\n    (if (&lt;= startValue (first args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))&quot;, :offset 191, :ns &quot;user&quot;} {:command &quot;(first (list 1 2 3))&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(defn do-max [startValue args]\n  (if (empty? args)\n    Double/MIN_VALUE\n    (if (&lt;= startValue (first args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))&quot;, :offset 189, :ns &quot;user&quot;} {:command &quot;(do-max 0 (list 1 2))&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(defn do-max [startValue args]\n  (if (empty? args)\n    startValue\n    (if (&lt;= startValue (first args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))&quot;, :offset 183, :ns &quot;user&quot;} {:command &quot;(do-max (list 1 2 3))&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(do-max 0 (list 1 2 3))&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(/ 1.0 0)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(/ 1.0 0.0)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(/ 0.0 0.0)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(defn smart-div\n  [&amp; values]\n  (reduce (fn [x y] (/ (double x) (double y))) values))\n(def divide (operationFactory smart-div))\n(def negate (operationFactory -))\n\n(defn do-max [startValue args]\n  (if (empty? args)\n    startValue\n    (if (&lt;= startValue (first args))\n      (do-max (first args) (rest args))\n      (do-max startValue (rest args)))))\n\n(defn MyMax [&amp; args]\n  (do-max Double/MIN_VALUE (apply list args)))\n\n(defn do-min [startValue args]\n  (if (empty? args)\n    startValue\n    (if (&gt;= startValue (first args))\n      (do-min (first args) (rest args))\n      (do-min startValue (rest args)))))\n(defn MyMin [&amp; args]\n  (do-min Double/MAX_VALUE (apply list args)))\n(def min (operationFactory MyMin))\n(def max (operationFactory MyMax))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n(defn parseFunction [s]\n  (parse (read-string s)))&quot;, :offset 1416, :ns &quot;user&quot;} {:command &quot;(divide (variable \&quot;z\&quot;) (max (variable \&quot;x\&quot;) (variable \&quot;y\&quot;)))&quot;, :offset 59, :ns &quot;user&quot;} {:command &quot;(def expr (divide (variable \&quot;z\&quot;) (max (variable \&quot;x\&quot;) (variable \&quot;y\&quot;))))&quot;, :offset 70, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 1})&quot;, :offset 14, :ns &quot;user&quot;} {:command &quot;(MyMax 1)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 1 \&quot;y\&quot; 0 \&quot;z\&quot; 0})&quot;, :offset 26, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 0 \&quot;y\&quot; 0 \&quot;z\&quot; 0})&quot;, :offset 26, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 0 \&quot;y\&quot; 0 \&quot;z\&quot; 10})&quot;, :offset 27, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 1 \&quot;y\&quot; 1 \&quot;z\&quot; 1})&quot;, :offset 26, :ns &quot;user&quot;} {:command &quot;(def expr (max (variable \&quot;x\&quot;) (variable \&quot;y\&quot;)))&quot;, :offset 46, :ns &quot;user&quot;} {:command &quot;(expr {\&quot;x\&quot; 0.0 \&quot;y\&quot; 0.0})&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(max 0 0)&quot;, :offset 9, :ns &quot;user&quot;} {:command &quot;((max 0 0))&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def add (operationFactory +))\n(def subtract (operationFactory -))\n(def multiply (operationFactory *))\n(defn smart-div\n  [&amp; values]\n  (reduce (fn [x y] (/ (double x) (double y))) values))\n(def divide (operationFactory smart-div))\n(def negate (operationFactory -))\n\n(defn do-max [a b]\n  (if (&gt;= a b)\n    a\n    b)\n  )\n\n(defn MyMax [&amp; args]\n  (reduce Double/MAX_VALUE do-max args))\n\n(defn do-min [a b]\n  (if (&lt;= a b)\n    a\n    b)\n  )\n\n(defn MyMin [&amp; args]\n  (reduce Double/MAX_VALUE do-min args))\n\n(def min (operationFactory MyMin))\n(def max (operationFactory MyMax))\n(defn constant [a]\n  (fn [&amp; args] (identity a)))\n(defn variable [x]\n  (fn [map] (get map x)))\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n(defn parseFunction [s]\n  (parse (read-string s)))\n\n(divide (variable \&quot;z\&quot;) (max (variable \&quot;x\&quot;) (variable \&quot;y\&quot;)))&quot;, :offset 1201, :ns &quot;user&quot;} {:command &quot;(MyMin 1 2 3 4)&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(do-min 1 2)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(do-max 2 3)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;(reduce do-min 1 2)&quot;, :offset 19, :ns &quot;user&quot;} {:command &quot;(reduce do-min [1 2])&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(defn constant [a]\n  constantly)\n\n(defn variable [x]\n  (fn [map] (get map x)))\n\n(def add (operationFactory +))\n\n(def subtract (operationFactory -))\n\n(def multiply (operationFactory *))\n\n(defn smart-div\n  [&amp; values]\n  (reduce (fn [x y] (/ (double x) (double y))) values))\n\n(def divide (operationFactory smart-div))\n(def negate (operationFactory -))\n\n(defn do-max [a b]\n  (if (&gt;= a b)\n    a\n    b))\n\n(defn MyMax [&amp; args]\n  (reduce do-max args))\n\n(defn do-min [a b]\n  (if (&lt;= a b)\n    a\n    b))\n\n(defn MyMin [&amp; args]\n  (reduce do-min args))\n\n(def min (operationFactory MyMin))\n\n(def max (operationFactory MyMax))\n\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n\n(defn parseFunction [s]\n  (parse (read-string s)))\n&quot;, :offset 1095, :ns &quot;user&quot;} {:command &quot;(def e (add (constant 1)))&quot;, :offset 26, :ns &quot;user&quot;} {:command &quot;(def e (add (constant 1) (constant 2)))&quot;, :offset 39, :ns &quot;user&quot;} {:command &quot;(def e (add 1 2))&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(e {\&quot;x\&quot; 1})&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def constant constantly)\n\n(defn variable [x]\n  (fn [map] (get map x)))\n\n(def add (operationFactory +))\n\n(def subtract (operationFactory -))\n\n(def multiply (operationFactory *))\n\n(defn smart-div\n  [&amp; values]\n  (reduce (fn [x y] (/ (double x) (double y))) values))\n\n(def divide (operationFactory smart-div))\n(def negate (operationFactory -))\n\n(defn do-max [a b]\n  (if (&gt;= a b)\n    a\n    b))\n\n(defn MyMax [&amp; args]\n  (reduce do-max args))\n\n(defn do-min [a b]\n  (if (&lt;= a b)\n    a\n    b))\n\n(defn MyMin [&amp; args]\n  (reduce do-min args))\n\n(def min (operationFactory MyMin))\n\n(def max (operationFactory MyMax))\n\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n\n(defn parseFunction [s]\n  (parse (read-string s)))\n&quot;, :offset 1088, :ns &quot;user&quot;} {:command &quot;((add (constant 1)))&quot;, :offset 20, :ns &quot;user&quot;} {:command &quot;(constant 1)&quot;, :offset 12, :ns &quot;user&quot;} {:command &quot;((constant 1))&quot;, :offset 14, :ns &quot;user&quot;} {:command &quot;((add (constant 1) (constant 2)))&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;((add (constant 1) (constant 2)) {\&quot;x\&quot; 1})&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;((add (constant 1)) {\&quot;x\&quot; 1})&quot;, :offset 28, :ns &quot;user&quot;} {:command &quot;(reduce clojure.core/max 1 2 3)&quot;, :offset 31, :ns &quot;user&quot;} {:command &quot;(defn operation [op, &amp; operations]\n  (fn [map]\n    (apply op (mapv #(% map) operations))))\n\n(defn operationFactory [op]\n  (partial operation op))\n\n(def constant constantly)\n\n(defn variable [x]\n  (fn [map] (get map x)))\n\n(def add (operationFactory +))\n\n(def subtract (operationFactory -))\n\n(def multiply (operationFactory *))\n\n(defn smart-div\n  [&amp; values]\n  (reduce (fn [x y] (/ (double x) (double y))) values))\n\n(def divide (operationFactory smart-div))\n(def negate (operationFactory -))\n\n(defn do-max [a b]\n  (if (&gt;= a b)\n    a\n    b))\n\n(defn MyMax [&amp; args]\n  (reduce clojure.core/max args))\n\n(defn do-min [a b]\n  (if (&lt;= a b)\n    a\n    b))\n\n(defn MyMin [&amp; args]\n  (reduce do-min args))\n\n(def min (operationFactory MyMin))\n\n(def max (operationFactory clojure.core/max))\n\n(def operations {'+ add '- subtract '* multiply '/ divide 'negate negate 'max max 'min min})\n\n(defn parse [exp]\n  (cond (list? exp)\n        (apply (operations (first exp))\n               (map parse (rest exp)))\n        (number? exp) (constant exp)\n        :else (variable (str exp))))\n\n(defn parseFunction [s]\n  (parse (read-string s)))\n(max (variable \&quot;z\&quot;) (variable \&quot;x\&quot;) (variable \&quot;x\&quot;))&quot;, :offset 1159, :ns &quot;user&quot;} {:command &quot;(clojure.core/max 1 2 3)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(max (variable \&quot;z\&quot;) (variable \&quot;x\&quot;) (variable \&quot;x\&quot;))&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;((max (variable \&quot;x\&quot;) (variable \&quot;x\&quot;) (variable \&quot;x\&quot;)) {\&quot;x\&quot; 1})&quot;, :offset 60, :ns &quot;user&quot;} {:command &quot;((max (variable \&quot;z\&quot;) (variable \&quot;x\&quot;) (variable \&quot;x\&quot;)){\&quot;x\&quot; 1 \&quot;y\&quot; 2 \&quot;z\&quot; 3})&quot;, :offset 71, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClojureFunctionalMinMaxTest">
+    <configuration name="ClojureFunctionalMinMaxTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cljtest.functional.ClojureFunctionalMinMaxTest" />
+      <module name="hw8" />
+      <option name="PROGRAM_PARAMETERS" value="hard" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <module name="hw8" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClojureFunctionalMinMaxTest" />
+      <item itemvalue="Clojure REPL.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76b91da5-cb3e-4d44-bb05-473c66276cdc" name="Default Changelist" comment="" />
+      <created>1554909323228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554909323228</updated>
+      <workItem from="1554909326667" duration="5837000" />
+      <workItem from="1555010019115" duration="181000" />
+      <workItem from="1555266548320" duration="13963000" />
+      <workItem from="1555325752011" duration="204000" />
+      <workItem from="1555678782584" duration="405000" />
+      <workItem from="1555834766582" duration="2424000" />
+      <workItem from="1555857616206" duration="2182000" />
+      <workItem from="1555918738369" duration="4540000" />
+      <workItem from="1556370578744" duration="660000" />
+      <workItem from="1556380577757" duration="627000" />
+      <workItem from="1556431133417" duration="3369000" />
+      <workItem from="1556477436882" duration="1310000" />
+      <workItem from="1556526239883" duration="223000" />
+      <workItem from="1556533522941" duration="1357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37282000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5042644" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Leiningen" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="REPL" order="10" side_tool="true" visible="true" weight="0.29637527" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clojure/examples.clj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/2_1_io.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/expression/exceptions/ExceptionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/clojure/cljtest/functional/ClojureFunctionalExpressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/1_5_functions-2.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/2_2_read.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/2_3_evaluation-orders.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/1_2_functions.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/1_1_intro.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/2_4_streams.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/examples/2_5_maps.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expression.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clojure/cljtest/ClojureScript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
